@@ -20,4 +20,4 @@ resultado = calcular_declividade(
     distancia
 )
 
-print(f"Declividade: {resultado:.2f}%")
+print(f"A declividade calculada foi de {resultado:.2f}%")
